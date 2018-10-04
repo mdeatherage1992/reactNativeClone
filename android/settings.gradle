@@ -1,0 +1,3 @@
+rootProject.name = 'reactNativeClone'
+
+include ':app'
